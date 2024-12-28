@@ -23,7 +23,7 @@ Diego Dev/Analyst</a></h1>
 
 - 📫 How to reach me **diegocamargo413@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1dU5jjpdHd7BAsGeYMtMJ1JYu7MQUQAfO/view?usp=sharing" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1n24vZo6XmiGrL4kpF0d2fobUb9SabBO_/edit?usp=sharing&ouid=111446780727753166210&rtpof=true&sd=true" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
