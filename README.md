@@ -1,8 +1,8 @@
 
 
 <h1 align="center">Hi 👋, I'm <a>
-Diego Dev/Analyst</a></h1>
-<h3 align="center">A passionate Data Analyst & BackEnd Developer From Argentina &#127470;&#127475</h3>
+Diego Business Analyst/ Data Scientist</a></h1>
+<h3 align="center">A passionate Business Analyst & Data Scientist From Argentina &#127470;&#127475</h3>
 
 <br>
 
