@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm <a>
 Diego Data Analyst</a></h1>
-<h3 align="center">A passionate Data Analyst From Argentina &#127470;&#127475</h3>
+<h3 align="center">A passionate Data Analyst & Retail Analytics Specialist From Argentina &#127470;&#127475</h3>
 
 <br>
 
