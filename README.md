@@ -8,20 +8,13 @@
 </a>
 <br>
 
-- <h3> 📊 I analyze data to generate insights that improve decision-making in business.</h3>
+- <h3 >📊 Analizo datos para generar insights que mejoran la toma de decisiones en negocios.</h3>
 - 🔗 Portfolio: https://sites.google.com/view/portfolio-diego-camargo  
 - 📧 Contacto: diegocamargo413@gmail.com
 
-- 🔭 I’m currently working in <a href="https://www.easy.com.ar" target="blank">Easy Cencosud</a>
+- 🌱 Experiencia en análisis de datos, dashboards y seguimiento de KPIs en entornos reales de negocio.
 
-- 🌱 I Work on multiple proyects, from apps and programs development,
-  to hard and complex analysis proyects.
-
-- 🤝 I’m looking for a new job that represents a challenge and professional growth
-
-- 🌱 I’m also improving and specializing my knowledge in deep and machine learning in: <a href="https://drive.google.com/file/d/1AckBcH6iV_EwHUBBAnRYcRLgWyyCP57I/view?usp=drive_link" target="blank">Diplomatura en Data Science</a>
-
-- 💬 Ask me about **SQL, Python, Power BI & Data**
+- 🤝 Abierto a oportunidades como Data Analyst / BI Analyst
 
 - 📄 Know about my experiences <a href="https://docs.google.com/document/d/1_3K5qaTGVopnEaAjMxaA7FbNONAI21sb/edit?usp=drive_link&ouid=111446780727753166210&rtpof=true&sd=true" target="blank">Resume</a>
 <br/>
