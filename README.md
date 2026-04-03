@@ -1,27 +1,27 @@
 
-
-<h1 align="center">Hi 👋, I'm <a>
-Diego Data & BI Analyst</a></h1>
-<h3 align="center">A passionate Data Analyst & Retail Analytics Specialist From Argentina &#127470;&#127475</h3>
-
-<br>
+<h1 align="center">  👋 Hola, soy Diego Camargo</a></h1>
+<h3 align="center">📊 Data & BI Analyst | SQL • Python • Power BI</h3>
+<h3 align="center">📍 San Luis, Argentina </h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
+<br>
+
+- <h3> 📊 I analyze data to generate insights that improve decision-making in business.</h3>
+- 🔗 Portfolio: https://sites.google.com/view/portfolio-diego-camargo  
+- 📧 Contacto: diegocamargo413@gmail.com
 
 - 🔭 I’m currently working in <a href="https://www.easy.com.ar" target="blank">Easy Cencosud</a>
 
-- 🌱 I’m currently Working on multiple proyects, from apps and programs development,
+- 🌱 I Work on multiple proyects, from apps and programs development,
   to hard and complex analysis proyects.
 
-- 🤝 I’m currently looking for a new job that represents a challenge and professional growth
+- 🤝 I’m looking for a new job that represents a challenge and professional growth
 
-- 🌱 I’m currently improving and specializing my knowledge in deep and machine learning in: <a href="https://mundose.com/programas/34" target="blank">Diplomatura en Data Science</a>
+- 🌱 I’m also improving and specializing my knowledge in deep and machine learning in: <a href="https://mundose.com/programas/34" target="blank">Diplomatura en Data Science</a>
 
 - 💬 Ask me about **SQL, Python, Power BI & Data**
-
-- 📫 How to reach me **diegocamargo413@gmail.com**
 
 - 📄 Know about my experiences <a href="https://docs.google.com/document/d/1_3K5qaTGVopnEaAjMxaA7FbNONAI21sb/edit?usp=drive_link&ouid=111446780727753166210&rtpof=true&sd=true" target="blank">Resume</a>
 <br/>
