@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for a new job that represents a challenge and professional growth
 
-- 🌱 I’m also improving and specializing my knowledge in deep and machine learning in: <a href="https://mundose.com/programas/34" target="blank">Diplomatura en Data Science</a>
+- 🌱 I’m also improving and specializing my knowledge in deep and machine learning in: <a href="https://drive.google.com/file/d/1AckBcH6iV_EwHUBBAnRYcRLgWyyCP57I/view?usp=drive_link" target="blank">Diplomatura en Data Science</a>
 
 - 💬 Ask me about **SQL, Python, Power BI & Data**
 
@@ -30,7 +30,7 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="www.linkedin.com/in/diego-camargo-168420242">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/diegocamargo16">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/DiegoFCd/DiegoFCd">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
