@@ -13,17 +13,17 @@ Diego Data & BI Analyst</a></h1>
 - 🔭 I’m currently working in <a href="https://www.easy.com.ar" target="blank">Easy Cencosud</a>
 
 - 🌱 I’m currently Working on multiple proyects, from apps and programs development,
-  to machine and deep learning proyects.
+  to hard and complex analysis proyects.
 
 - 🤝 I’m currently looking for a new job that represents a challenge and professional growth
 
 - 🌱 I’m currently improving and specializing my knowledge in deep and machine learning in: <a href="https://mundose.com/programas/34" target="blank">Diplomatura en Data Science</a>
 
-- 💬 Ask me about **Java, Python & Data**
+- 💬 Ask me about **SQL, Python, Power BI & Data**
 
 - 📫 How to reach me **diegocamargo413@gmail.com**
 
-- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1n24vZo6XmiGrL4kpF0d2fobUb9SabBO_/edit?usp=sharing&ouid=111446780727753166210&rtpof=true&sd=true" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1_3K5qaTGVopnEaAjMxaA7FbNONAI21sb/edit?usp=drive_link&ouid=111446780727753166210&rtpof=true&sd=true" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
