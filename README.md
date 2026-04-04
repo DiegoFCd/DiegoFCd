@@ -20,10 +20,13 @@
 - 🤝 Abierto a oportunidades como Data Analyst / BI Analyst
 
 - 📄 Know about my experiences <a href="https://docs.google.com/document/d/1_3K5qaTGVopnEaAjMxaA7FbNONAI21sb/edit?usp=drive_link&ouid=111446780727753166210&rtpof=true&sd=true" target="blank">Resume</a>
-<br/>
+
+- ### 🌐 Y en el Repositorio fijado podras acceder los proyetos del repo:
+ 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
+	  
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/diegocamargo16">
