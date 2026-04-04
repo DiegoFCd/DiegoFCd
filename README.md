@@ -10,7 +10,7 @@
 
 - <h3 >📊 Analizo datos para generar insights que mejoran la toma de decisiones en negocios y el entorno que lo requiera.</h3>
 
- ### 🌐 Aqui encontraras los proyectos desglozados y explicados a detalle en estilo de pagina web:  
+- ### 🌐 Aqui encontraras los proyectos desglozados y explicados a detalle en estilo de pagina web:  
 -  🔗 Portfolio:https://sites.google.com/view/portfolio-diego-camargo
     <br>
 - 📧 Contacto: diegocamargo413@gmail.com
