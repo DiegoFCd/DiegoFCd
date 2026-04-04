@@ -9,7 +9,10 @@
 <br>
 
 - <h3 >📊 Analizo datos para generar insights que mejoran la toma de decisiones en negocios y el entorno que lo requiera.</h3>
-- 🔗 Portfolio: https://sites.google.com/view/portfolio-diego-camargo  
+
+ ### 🌐 Aqui encontraras los proyectos desglozados y explicados a detalle en estilo de pagina web:  
+-  🔗 Portfolio:https://sites.google.com/view/portfolio-diego-camargo
+    <br>
 - 📧 Contacto: diegocamargo413@gmail.com
 
 - 🌱 Experiencia en análisis de datos, dashboards y seguimiento de KPIs en entornos reales de negocio.
