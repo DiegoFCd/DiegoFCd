@@ -1,6 +1,6 @@
 
 <h1 align="center">  👋 Hola, soy Diego Camargo</a></h1>
-<h3 align="center">📊 Data & BI Analyst | SQL • Python • Power BI</h3>
+<h3 align="center">📊 Business Intelligence | Data Analytics | Predictive Analytics</h3>
 <h3 align="center">📍 San Luis, Argentina </h3>
 
 <a target="_blank" align="center">
