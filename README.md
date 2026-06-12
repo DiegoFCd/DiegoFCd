@@ -1,5 +1,5 @@
 
-<h1 align="center">  👋 Hola, soy Diego Camargo</a></h1>
+<h1 align="center">  👋 Hola, So Diego Camargo</a></h1>
 <h3 align="center">📊 Business Intelligence | Data Analytics | Predictive Analytics</h3>
 <h3 align="center">📍 San Luis, Argentina </h3>
 
@@ -8,17 +8,23 @@
 </a>
 <br>
 
-- <h3 >📊 Analizo datos para generar insights que mejoran la toma de decisiones en negocios y el entorno que lo requiera.</h3>
-- 📧 Contacto: diegocamargo413@gmail.com
+- <h3 >📈 Building solutions across Business Intelligence, Machine Learning and LLM Applications to turn data into actionable insights..</h3>
+- 📧 Contact: diegocamargo413@gmail.com
 
-- 🌱 Experiencia en análisis de datos, dashboards y seguimiento de KPIs en entornos reales de negocio.
+- 🌱 Experience in data analysis, dashboards and KPI tracking in real business environments.
 
-- 🤝 Abierto a oportunidades como Data Analyst / BI Analyst
+- 🤝 Open to opportunities as:
+• BI Analyst
+• Data Analyst
+• Junior Machine Learning rols
 
-- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1_3K5qaTGVopnEaAjMxaA7FbNONAI21sb/edit?usp=drive_link&ouid=111446780727753166210&rtpof=true&sd=true" target="blank">Resume</a>
+- 🚀 Featured repositories include:
 
+• 📊 Business Intelligence Projects
+• 🤖 Machine Learning Projects
+• 🧠 LLM Applications
 
-- ### 🌐 Y en el Repositorio fijado más abajo podras acceder los proyectos del repo:
+- ### 🌐 In the repository linked below you can access all the projects in the repo:
  
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
