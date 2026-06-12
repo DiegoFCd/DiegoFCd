@@ -17,9 +17,8 @@
 
 - 📄 Know about my experiences <a href="https://docs.google.com/document/d/1_3K5qaTGVopnEaAjMxaA7FbNONAI21sb/edit?usp=drive_link&ouid=111446780727753166210&rtpof=true&sd=true" target="blank">Resume</a>
 
-- ### 🌐 Aqui encontraras los proyectos desglozados y explicados a detalle en estilo de pagina web:  
--  🔗 Portfolio: https://sites.google.com/view/portfolio-diego-camargo
-- ### 🌐 Y en el Repositorio fijado podras acceder los proyectos del repo:
+
+- ### 🌐 Y en el Repositorio fijado más abajo podras acceder los proyectos del repo:
  
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
