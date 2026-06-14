@@ -1,5 +1,5 @@
 
-<h1 align="center">  👋 Hola, So Diego Camargo</a></h1>
+<h1 align="center">  👋 Hello, I'm Diego Camargo</a></h1>
 <h3 align="center">📊 Business Intelligence | Data Analytics | Predictive Analytics</h3>
 <h3 align="center">📍 San Luis, Argentina </h3>
 
